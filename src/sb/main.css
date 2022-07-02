@@ -1,0 +1,23 @@
+body {
+	background: #c6e7e8;
+}
+
+.post {
+	background-color: #ffffff;
+	width:80%;
+	height:auto;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+	
+	overflow: auto;
+	
+	padding: 5px;
+}
+.post-text {
+	font-family: 'Roboto','Noto Sans',sans-serif,arial,Tahoma,verdana;
+}
+.leftimg {
+	float:left;
+	margin: 0px 7px 7px 0;
+}
